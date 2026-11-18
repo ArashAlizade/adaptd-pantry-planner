@@ -1,0 +1,98 @@
+site_id,name,address,zip,kind,subtype,access,hours_text,weekly_hours,weekly_hours_walkup,lat,lon
+E35,Center for the Works of Mercy,10301 Woodward Ave,48202,Existing site,Pantry,Walk-up / open,Mondays and Wednesdays from 10:00am-3:00pm,10.0,10.0,42.38982,-83.08705
+E43,Metro United Methodist,8000 Woodward Ave,48202,Existing site,Not specified,Walk-up / open,Wednesdays from 12:00pm-2:00pm,2.0,2.0,42.37475,-83.07543
+E90,Unify Detroit/Bethel A.M.E. Church,5050 Saint Antoine St,48202,Existing site,Pantry,Walk-up / open,"2nd & 4th Wednesday of each month, from 1:00pm - 3:00pm",0.92,0.92,42.36064,-83.05714
+E48,Wayne Metro's Food Support,7310 Woodward Ave,48202,Existing site,Not specified,Appointment required,Call for an appointment,0.0,0.0,42.37085,-83.07287
+E81,ACC,110 W Seven Mile,48203,Existing site,Pantry,Walk-up / open,"Nov. 6, Nov. 7, Nov. 13 and every following Thursday starting at 9:00am-while supplies last",2.0,2.0,42.43244,-83.10443
+E71,God's Storehouse,18301 John R St,48203,Existing site,Pantry,Walk-up / open,Tuesdays and Saturdays from 8:00am-11:30am,7.0,7.0,42.42629,-83.10234
+E89,Auntie Na's,12028 Yellowstone St,48204,Existing site,Pantry,Walk-up / open,"Fridays from 2:00pm - 5:00pm, Saturdays from 12:00pm - while supplies last",5.0,5.0,42.37758,-83.13517
+E87,Straight Gate Church,10100 Grand River Ave,48204,Existing site,Pantry,Walk-up / open,"1st and 4th Thursdays of the month, from 9:00am - while supplies last",0.92,0.92,42.37067,-83.14223
+E24,Deo Gratias Ministries Detroit,15879 E 7 Mile Rd,48205,Existing site,Not specified,Appointment required,"Appt required, Tuesdays and Fridays from 10:00am-2:00pm",8.0,0.0,42.43604,-82.95667
+E73,Grace Church of the Nazarene,18020 Hoover St,48205,Existing site,Pantry,Walk-up / open,"2nd and 4th Fridays of the month, from 9:00am-12:00pm",1.39,1.39,42.42746,-83.00358
+E72,Lift Up a Child at Greater St. Paul,15325 Gratiot Ave,48205,Existing site,Pantry,Walk-up / open,"1st and 3rd Thursdays of the month, from 2:00pm-4:00pm",0.92,0.92,42.44761,-82.97037
+E29,Matrix Human Services,13560 E McNichols Rd,48205,Existing site,Not specified,Walk-up / open,"Every 2nd and 4th Tuesday of each month, from 2:00pm-5:00pm",1.39,1.39,42.42653,-82.98453
+E2,The Open Door Church,12411 E Seven Mile Rd,48205,Existing site,Not specified,Walk-up / open,"1st Monday of every month, from 10:00am-12:00pm",0.46,0.46,42.43498,-82.99777
+E34,Cass Community Social Services,11744 Rosa Parks Blvd,48206,Existing site,Not specified,Walk-up / open,"3rd Monday of the month, from 1:00pm-4:00pm",0.69,0.69,42.38674,-83.1065
+E84,Detroit Muslim Mission,11529 Linwood St,48206,Existing site,Pantry,Walk-up / open,Thursdays 10:00am-2:00pm,4.0,4.0,42.38169,-83.11459
+E40,Grace Temple,12521 Dexter Ave,48206,Existing site,Not specified,Walk-up / open,"2nd Thursday of every month, from 10:00am to 4:30pm",1.5,1.5,42.38475,-83.12795
+E7,New Bethel Baptist Church,8430 Linwood St,48206,Existing site,Pantry,Walk-up / open,Tuesdays at 8:30am,2.0,2.0,42.36774,-83.10486
+E64,Salvation Army Temple,3729 W Chicago St,48206,Existing site,Not specified,Walk-up / open,Thursdays from 10:00am to 11:30am,1.5,1.5,42.37273,-83.12095
+E10,Capuchin Soup Kitchen - Meldrum Soup Kitchen,1264 Meldrum St,48207,Existing site,Hot Meal,Walk-up / open,"Monday - Friday Breakfast from 8:30am-9:30am, Lunch from 11:00am-1:00pm",15.0,15.0,42.35107,-83.01265
+E83,Church of Messiah,231 E Grand Blvd,48207,Existing site,Pantry,Walk-up / open,"Wednesdays from 10:00am-12:00pm, Saturdays from 8:00am-10:30am",4.5,4.5,42.35047,-83.00481
+E46,Sacred Heart Church/Saint Vincent,3451 Rivard St,48207,Existing site,Not specified,Walk-up / open,3rd Wednesday of the month from 10:00am - 12:00pm,0.46,0.46,42.35061,-83.04515
+E80,Unify Detroit/St. John Presbyterian Church,1961 E Lafayette St,48207,Existing site,Pantry,Walk-up / open,"3rd Friday of every month, from 9:00am-1:00pm",0.92,0.92,42.34002,-83.02909
+E102,Alternative for girls,903 W Grand Blvd,48208,Existing site,Not specified,Walk-up / open,"1st and 3rd Thursdays of the month, from 8:30am - 11:00am",1.15,1.15,42.33298,-83.09758
+E49,Bailey Temple,5370 McKinley St,48208,Existing site,Not specified,Walk-up / open,Tuesdays from 12:30pm-2:30pm and Sundays from 12:30pm-1pm,2.5,2.5,42.34742,-83.10559
+E107,Core City Neighborhoods,3301 23rd St,48208,Existing site,Pantry,Walk-up / open,"Tuesdays and Thursdays, from 3:00pm - 6:00pm",6.0,6.0,42.33389,-83.09255
+E37,Crossroads - West,2424 W Grand Blvd,48208,Existing site,"Pantry, Hot Meal",Walk-up / open,Sundays Hot Meals served from 11:00am-2:00pm. Wednesdays walk-up groceries from 11:00am-1:00pm,5.0,5.0,42.36147,-83.09588
+E95,Michigan Veterans Foundation,4626 Grand River Ave,48208,Existing site,Not specified,Walk-up / open,Wednesdays from 11:00am - 1:00pm,2.0,2.0,42.34737,-83.08301
+E94,Tabernacle Missionary Baptist,2080 W Grand Blvd,48208,Existing site,Pantry,Walk-up / open,Wednesdays 10:00am - while supplies last,2.0,2.0,42.35685,-83.10779
+E51,Fresh Market at West International H.S.,1500 Scotten St,48209,Existing site,Not specified,Drive-up only,Wednesdays - Drive Up from 4:30pm - 6:30pm,2.0,0.0,42.31888,-83.09113
+E52,Holy Redeemer Food Pantry,1721 Junction St,48209,Existing site,Pantry,Walk-up / open,Tuesdays from 11:00am to 12:00pm,1.0,1.0,42.31713,-83.10226
+E55,Military Avenue Evangelical,1002 Military St,48209,Existing site,"Pantry, Hot Meal",Walk-up / open,10:00am after Sunday Service on the 4th Sunday of the month,0.46,0.46,42.30988,-83.10218
+E59,Urban Neighborhood Initiative,8300 Longworth St,48209,Existing site,Pantry,Drive-up only,Fridays from 1:30pm - 2:30pm Drive-Up only,1.0,0.0,42.30509,-83.12618
+E50,Food Hub @ St. Cunegunda (Drive-up only),5900 Saint Lawrence St,48210,Existing site,Pantry,Drive-up only,"Mondays, Tuesdays, and Wednesdays by appointment",0.0,0.0,42.33703,-83.14718
+E75,New Paradigm (Drive-up only),4001 29th St,48210,Existing site,Pantry,Drive-up only,Every other Friday from 9:00am - 10:00am,0.5,0.0,42.33475,-83.11009
+E86,PHG Urban Life Center,6495 W Warren Ave,48210,Existing site,Pantry,Walk-up / open,3rd Saturdays 10:00am - 12:00pm,0.46,0.46,42.34419,-83.1338
+E11,Capuchin Soup Kitchen - Services Center Pantry,6333 Medbury St,48211,Existing site,Pantry,Walk-up / open,Monday - Friday from 8:30am - 4:00pm,37.5,37.5,42.37853,-83.03174
+E104,Triumph Church,2760 E Grand Blvd,48211,Existing site,Pantry,Walk-up / open,"1st and 3rd Fridays of the month, from 9:00am - 11:00am",0.92,0.92,42.37498,-83.06178
+E82,ICNA Relief Muslim Family Services,12500 Mitchell St,48212,Existing site,Pantry,Walk-up / open,"Tuesdays and Thursdays, from 11:00am - 3:00pm",8.0,8.0,42.40901,-83.06415
+E93,Laskey Recreational Center (Drive-up only),13200 Fenelon St,48212,Existing site,Pantry,Drive-up only,Drive Up Every other Wednesday 1:30pm - 2:30pm,0.5,0.0,42.4135,-83.05206
+E79,Perfecting Community Care,7100 E Davison St,48212,Existing site,Pantry,Appointment required,"By appointment Mon - Thurs. from 9:00am-5:00pm, and 9:00am-1:00pm Friday. Drive-up pantry on 4th Wednesday of every month from 1:30pm-2:30pm.",36.23,0.0,42.42328,-83.02988
+E3,Bethel Baptist Church,5715 Holcomb Ave,48213,Existing site,Not specified,Walk-up / open,"Monday, Tuesday, Friday, from 9:30am-5:00pm",22.5,22.5,42.38503,-83.00631
+E92,Focus Hope - Eastside Food Center,9151 Chalmers St,48213,Existing site,Pantry,Eligibility-restricted,"Mon - Thurs from 8:00am - 4:00pm, Fridays from 8:00am - 12:00pm, For ages 60+ years only, need photo ID",36.0,0.0,42.40635,-82.96586
+E88,Jesus Tabernacle of Deliverance,11001 Chalmers St,48213,Existing site,Pantry,Walk-up / open,Wednesdays from 9:00am - 12:00pm,3.0,3.0,42.41617,-82.97221
+E31,Nativity of Our Lord Church,5900 McClellan St,48213,Existing site,Not specified,Walk-up / open,Thursdays from 1:00pm-4:00pm,3.0,3.0,42.38817,-83.00501
+E39,GenesisHOPE,7200 Mack Ave,48214,Existing site,Pantry,Drive-up only,Drive-up on Nov. 20 and Dec. 20 at 10:00am,0.46,0.0,42.36423,-83.01239
+E42,Iroquois Ave Christ Lutheran Church,2411 Iroquois St,48214,Existing site,Not specified,Walk-up / open,"2nd, 3rd, & 4th Friday of the Month from 9:30am to 12:00pm",1.73,1.73,42.36224,-82.9979
+E32,Salvation Army Harding,3735 Harding St,48214,Existing site,Not specified,Appointment required,Pantry is appointment only Monday - Friday from 9:00am-3:00pm,30.0,0.0,42.3764,-82.98618
+E9,Capuchin Soup Kitchen - Conner Street Soup Kitchen,4390 Conner St,48215,Existing site,Hot Meal,Walk-up / open,"Monday - Saturday Breakfast from 8:30am-9:30am, lunch from 11:00am-1:00pm, Monday - Friday Dinner from 4:00pm-5:00pm",23.0,23.0,42.38664,-82.96964
+E100,Feed Your Neighbor,12530 Mack Ave,48215,Existing site,Not specified,Walk-up / open,"3rd Mondays of the month, from 2:00pm - 4:00pm",0.46,0.46,42.38294,-82.96686
+E99,ICNA Relief Muslim Family Services,12920 E Warren Ave,48215,Existing site,Pantry,Walk-up / open,"2nd Saturday of the month, 11:00am-1:00pm",0.46,0.46,42.39205,-82.96743
+E6,Salvation Army - Conner Creek Corps,3000 Conner St,48215,Existing site,Pantry,Appointment required,"Pantry is appointment only Monday - Friday from 9:00am-4:30pm, drive-up pantry on Mondays from 12:00pm-1:00pm",38.5,0.0,42.3798,-82.96463
+E54,MiSide (Drive-up only),3553 W Vernor Hwy,48216,Existing site,Not specified,Drive-up only,Every other Thursday from 1:30pm - 2:30pm,0.5,0.0,42.32315,-83.08758
+E58,Sainte Anne's Pantry,1000 Sainte Anne St,48216,Existing site,Pantry,Walk-up / open,"3rd Wednesdays of the month, from 10:00am-12:00pm",0.46,0.46,42.32054,-83.07654
+E57,New Mt Hermon,3225 S Deacon St,48217,Existing site,Not specified,Walk-up / open,Call phone number for up-to-date hours,0.0,0.0,42.26202,-83.15791
+E65,Perry Outreach Center,12047 Miami St,48217,Existing site,Not specified,Walk-up / open,Mondays - Wednesdays from 10:00am-2:00pm,12.0,12.0,42.27168,-83.15163
+E12,Brightmoor Connection,20740 Grand River Ave,48219,Existing site,Pantry,Appointment required,"Monday, Tuesday 2-7pm (Last client with appointment seen at 6:30)",10.0,0.0,42.41208,-83.24589
+E13,Corpus Christi Parish,19800 Pembroke Ave,48219,Existing site,Not specified,Appointment required,By app. only; Thursdays,0.0,0.0,42.43709,-83.23831
+E14,Developing K.I.D.S.,24230 W McNichols Rd,48219,Existing site,Not specified,Walk-up / open,Every Tuesday 10:00am - 1:00pm  (Ticket # given around 8:45 AM) (Line starts at 9 AM),3.0,3.0,42.41479,-83.27911
+E67,Pure Word Bapt Church,20011 Grand River Ave,48219,Existing site,Not specified,Walk-up / open,Wednesdays 10:00am-1:00pm and Fridays 10:00am-12:00pm,5.0,5.0,42.40821,-83.23824
+E91,SDM2 Education Project,19470 Lenore Ave,48219,Existing site,Pantry,Walk-up / open,Tuesdays from 1:00pm - 3:00pm,2.0,2.0,42.43406,-83.28111
+E22,Redeemed Christian Fellowship,18641 Wyoming St,48221,Existing site,Not specified,Walk-up / open,Wednesdays 1:00pm-2:00pm,1.0,1.0,42.42843,-83.16117
+E4,City Covenant Church,13624 Stout St,48223,Existing site,Hot Meal,Walk-up / open,"Monday-Thursdays, from 12:00pm - 3:00pm",12.0,12.0,42.38548,-83.24063
+E68,Gompers/Brightmoor Alliance,14450 Burt Rd,48223,Existing site,Pantry,Walk-up / open,"2nd & 4th Fridays of the month, from 9:00am-11:30am",1.15,1.15,42.3923,-83.24613
+E16,Mission City Food Pantry,20405 Schoolcraft St,48223,Existing site,Pantry,Walk-up / open,2nd and 4th Friday of the month from 1:00pm-3:00pm,0.92,0.92,42.38589,-83.24121
+E69,Nexus Detroit,15042 Burt Rd,48223,Existing site,Pantry,Walk-up / open,Wednesdays from 2:00pm-6:00pm,4.0,4.0,42.39867,-83.24675
+E70,Northwestern Community Baptist Church,20225 Fenkell St,48223,Existing site,Pantry,Walk-up / open,Thursdays from 8:30am-while supplies last,2.0,2.0,42.40033,-83.24033
+E8,St. Christine Christian Services,22303 Fenkell St,48223,Existing site,Pantry,Walk-up / open,Tuesdays from 12:00pm-2:30pm,2.5,2.5,42.4,-83.26073
+E26,Bethany Lutheran Church,11475 E Outer Dr,48224,Existing site,Not specified,Appointment required,"2nd and 4th Wednesay of the month 12:30-2pm (Appointments only, the week of)",0.69,0.0,42.40588,-82.94886
+E36,Central United Methodist Church,23 E Adams Ave,48226,Existing site,Hot Meal,Walk-up / open,"Mondays - Thursdays, 10:30am - 2:00pm",14.0,14.0,42.33736,-83.05065
+E38,Detroit Area Agency on Aging,1333 Park Ave,48226,Existing site,Hot Meal,Eligibility-restricted,"Lunch Meal Program, 1 meal per day for 5 days. Christmas and Thanksgiving meal program, must register through the meal line number.",0.0,0.0,42.3361,-83.05219
+E56,Most Holy Trinity Church,1050 Porter St,48226,Existing site,Not specified,Walk-up / open,Thursdays from 11:00am-1:00pm,2.0,2.0,42.32991,-83.06021
+E44,Pope Francis Center,438 Saint Antoine St,48226,Existing site,Hot Meal,Walk-up / open,"Breakfast only, served Monday - Saturday at 7:00am-11:00am",24.0,24.0,42.33197,-83.03826
+E105,Body of Christ International,9555 Saint Marys St,48227,Existing site,Pantry,Walk-up / open,Fridays from 9:00am - 11:00am,2.0,2.0,42.36579,-83.20513
+E1,Caring Community Center,14531 Grand River Ave,48227,Existing site,Not specified,Walk-up / open,"1st Saturday of every month, from 10:00am-12:00pm",0.46,0.46,42.38831,-83.18811
+E103,Freedom Ain't Free,16129 Plymouth Rd,48227,Existing site,Not specified,Walk-up / open,,0.0,0.0,42.37226,-83.20425
+E61,Gospel Tabernacle (Drive-Up) Food Pantry,12935 W Buena Vista St,48227,Existing site,Pantry,Drive-up only,"1st and 3rd Saturdays of the month, from 12:00pm-2:00pm (while supplies last)",0.92,0.0,42.3831,-83.17154
+E106,Micah Nevah Non-Profit Corporation,15924 Fenkell St,48227,Existing site,Pantry,Walk-up / open,"Thursdays and Fridays, from 10:00am - 4:00pm",12.0,12.0,42.40158,-83.20346
+E63,Salvation Army Grandale,11325 Montrose St,48227,Existing site,Not specified,Appointment required,"By appointment only Tuesday - Friday, from 1:00pm-3:00pm",8.0,0.0,42.37046,-83.20024
+E85,Scott Memorial UM Church,15361 Plymouth Rd,48227,Existing site,Pantry,Walk-up / open,"3rd Thursdays of the month, from 12:00pm-2:00pm.",0.46,0.46,42.37232,-83.19588
+E66,Third New Hope Baptist Church,12850 Plymouth Rd,48227,Existing site,Not specified,Walk-up / open,"Every 4th Friday of the month, from 10am-2pm",0.92,0.92,42.37351,-83.17025
+E62,Islamic Center of Detroit,14350 Tireman Ave,48228,Existing site,Pantry,Walk-up / open,Saturdays from 1:00pm - 5:00pm,4.0,4.0,42.35192,-83.18393
+E101,New Providence Baptist Church,18211 Plymouth Rd,48228,Existing site,Not specified,Walk-up / open,Tuesdays 8:30am - 11:30am,3.0,3.0,42.37036,-83.21807
+E23,Conant Gardens,18801 Joseph Campau St,48234,Existing site,Not specified,Walk-up / open,Tuesdays from 10:00am - 11:45am,1.75,1.75,42.43132,-83.07315
+E74,Pilgrim Baptist Church - Survival,18474 Binder St,48234,Existing site,Pantry,Walk-up / open,Thursdays from 9:00am-12:00pm,3.0,3.0,42.42848,-83.0636
+E17,Bread of Life Food Pantry,W Outer Dr,48235,Existing site,Pantry,Walk-up / open,4th Saturday of the month from 7:30am-10:00am,0.58,0.58,42.4202,-83.18788
+E96,First Baptist Institute,17101 W Seven Mile,48235,Existing site,Not specified,Walk-up / open,Wednesdays from 9:00am - 11:00am,2.0,2.0,42.42977,-83.21215
+E18,Greater Emmanuel Institutional Church of God,19190 Schaefer Hwy,48235,Existing site,Not specified,Walk-up / open,3rd Saturday of the month,0.0,0.0,42.43221,-83.18017
+E5,Hartford Memorial Baptist Church,14000 W Seven Mile Rd,48235,Existing site,Pantry,Walk-up / open,Mondays 11:30-4:00pm and Wednesdays 7:30am-12:00pm,9.0,9.0,42.43123,-83.18427
+E20,Jalen Rose Leadership Academy,15000 Trojan St,48235,Existing site,Pantry,Walk-up / open,Wednesdays 11:30am-1:00pm,1.5,1.5,42.44205,-83.19457
+E78,Project Healthy Community - Meyers,14000 W Seven Mile,48235,Existing site,Pantry,Walk-up / open,"4th Thursday of every month, from 8:30am-11:00am. Also from 8:30am-11:00am on Nov. 26 and Dec. 18.",0.58,0.58,42.43123,-83.18427
+E76,The Really Living Corp,18966 Greenfield Rd,48235,Existing site,Pantry,Walk-up / open,Mondays and Thursdays 10:00am-12:00pm,4.0,4.0,42.42962,-83.19951
+E27,Crossroads - East,21230 Moross Rd,48236,Existing site,Hot Meal,Walk-up / open,Sundays 11:00am-2:00pm,3.0,3.0,42.42216,-82.92488
+E30,My Father’s Business Outreach Ministries,21001 Moross Rd,48236,Existing site,Not specified,Walk-up / open,"2nd and 4th Saturday of each month, from 9:00am-11:00am",0.92,0.92,42.42431,-82.92607
+E33,12th Street Missionary Baptist Church,1829 Pilgrim St,48238,Existing site,Pantry,Walk-up / open,"Every other Friday starting Nov. 7, from 10:00am-12:00pm and 1:00pm-3:00pm",2.0,2.0,42.40763,-83.11788
+E41,Greater Northwest Church,15811 Rosa Parks Blvd,48238,Existing site,Not specified,Walk-up / open,Wednesdays from 8:30am to 11:00am,2.5,2.5,42.40935,-83.1187
+E97,Greater Quinn A.M.E.,13501 Rosa Parks Blvd,48238,Existing site,Not specified,Walk-up / open,Mon-Fri 9:00am - 3:00pm,30.0,30.0,42.3965,-83.11367
+E19,Linwood Church of Christ,14001 Linwood St,48238,Existing site,Not specified,Walk-up / open,"2nd Saturday of each Month, 12:00-2:00pm",0.46,0.46,42.39718,-83.12517

@@ -1,0 +1,235 @@
+site_id,name,address,zip,subtype,lat,lon,kind
+C001,Adams Butzel Rec Center,10500 Lyndon,48238,Recreation center,42.39515288995223,-83.16505971800046,Candidate host
+C002,Butzel Family Recreation Center,7737 Kercheval,48214,Recreation center,42.35744796432449,-83.00244293929443,Candidate host
+C003,Clemente Recreation Center,2631 Bagley,48216,Recreation center,42.32526146165194,-83.0784902921854,Candidate host
+C004,Coleman A. Young Recreation Center,2751 Robert Bradby Drive,48207,Recreation center,42.34538505524319,-83.0245114277729,Candidate host
+C005,Crowell Recreation Center ,16630 Lahser,48219,Recreation center,42.41054792565919,-83.25722006859938,Candidate host
+C006,Farwell Recreation Center,2711 E. Outer Dr.,48234,Recreation center,42.44065241146617,-83.05802653257092,Candidate host
+C007,Heilmann Recreation Center,19601 Crusade,48205,Recreation center,42.439210207930586,-82.9607668530409,Candidate host
+C008,Kemeny Recreation Center,2260 S. Fort,48217,Recreation center,42.27362759762564,-83.15782416118773,Candidate host
+C009,Lasky Recreation Center,13200 Fenelon,48212,Recreation center,42.414118121374,-83.05261339426326,Candidate host
+C010,Patton Recreation Center,2301 Woodmere,48209,Recreation center,42.3095164470625,-83.13744256867567,Candidate host
+C011,Williams Community Center,8431 Rosa Parks Blvd,48206,Recreation center,42.37128088346387,-83.09593766448435,Candidate host
+C012,James Valentine Campbell Library,6625 W. Fort,,Public library,42.304600130045685,-83.10740884487858,Candidate host
+C013,Herbert Bowen Library,3648 W. Vernor,,Public library,42.323280403890124,-83.08894041412334,Candidate host
+C014,Chandler Park Library,12800 Harper,,Public library,42.40156859065539,-82.97437790167565,Candidate host
+C015,Henry Chaney Library,16101 Grand River,,Public library,42.39520409658544,-83.20535482256679,Candidate host
+C016,Downtown Library Library,121 Gratiot,,Public library,42.333963352973484,-83.0468776448296,Candidate host
+C017,Edwin F. Conely Library,4600 Martin,,Public library,42.33192612572043,-83.12730777767533,Candidate host
+C018,Divie B. Duffield Library,2507 W Grand Blvd,,Public library,42.36330763713403,-83.09333752963501,Candidate host
+C019,Thomas A. Edison Library,18400 Joy Rd.,,Public library,42.358093066742526,-83.22049967642508,Candidate host
+C020,Elmwood Park Library,550 Chene,,Public library,42.34047315204277,-83.0233587699621,Candidate host
+C021,Benjamin Franklin Library,13651 E. McNichols,,Public library,42.42713476116695,-82.98403802598973,Candidate host
+C022,Bela Hubbard Library,12929 W. McNichols,,Public library,42.41638394131856,-83.17283309238202,Candidate host
+C023,Elisabeth Knapp Library,13330 Conant,,Public library,42.41480617191481,-83.06012200348957,Candidate host
+C024,Main Library Library,5201 Woodward,,Public library,42.358401536711455,-83.06671060849577,Candidate host
+C025,Francis Parkman Library,1766 Oakman Blvd,,Public library,42.396761284287265,-83.12740128194397,Candidate host
+C026,Redford Library,21200 Grand River,,Public library,42.41358014911586,-83.2492511870453,Candidate host
+C027,Laura Ingalls Wilder Library,7140 E. 7 Mile,,Public library,42.433636605047255,-83.02977435555528,Candidate host
+C028,Sherwood Forest Library,7117 W. 7 Mile,,Public library,42.431272892187806,-83.14417393035808,Candidate host
+C029,Jefferson Library,12350 E. Outer Drive,,Public library,42.404016215551074,-82.93737499175477,Candidate host
+C030,Douglass Library,3666 Grand River,,Public library,42.3431055001101,-83.07422447595924,Candidate host
+C031,Jessie C. Chase Library,17731 W 7 Mile,,Public library,42.42978261191159,-83.21764330161866,Candidate host
+C032,Detroit Achievement Academy,7000 W OUTER DR,48235,School (PSA School),42.42001165112183,-83.20013787673356,Candidate host
+C033,Ann Arbor Trail Magnet School,7635 CHATHAM,48239,School (LEA School),42.34704851944413,-83.2609706092326,Candidate host
+C034,Munger Elementary-Middle School,5525 MARTIN ST,48210,School (LEA School),42.33726639316804,-83.13284140254038,Candidate host
+C035,Southeastern High School,3030 FAIRVIEW ST,48214,School (LEA School),42.37479404296928,-82.9783734533301,Candidate host
+C036,Detroit Edison Public School Academy,1903 WILKINS ST,48207,School (PSA School),42.35168608437773,-83.03762633218852,Candidate host
+C037,Western International High School,1500 SCOTTEN ST,48209,School (LEA School),42.31887003521094,-83.09179138180906,Candidate host
+C038,Hamilton Academy,14223 SOUTHAMPTON ST,48213,School (LEA School),42.39861403755047,-82.96290010100623,Candidate host
+C039,Nolan Elementary-Middle School,1150 E LANTZ ST,48203,School (LEA School),42.43659599496908,-83.09169780347233,Candidate host
+C040,Voyageur College Prep,4366 MILITARY ST,48210,School (PSA School),42.33297250824467,-83.11861495130069,Candidate host
+C041,Charles R. Drew Transition Center,9600 WYOMING ST,48204,School (LEA School),42.36733826136995,-83.15707925104587,Candidate host
+C042,Bennett Elementary School,2111 MULLANE ST,48209,School (LEA School),42.30922397692008,-83.12987486307765,Candidate host
+C043,Covenant High School East,9100 GRATIOT AVE,48213,School (PSA School),42.38848638649162,-83.00793329490645,Candidate host
+C044,Palmer Park Preparatory Academy,3901 MARGARETA ST,48221,School (LEA School),42.42730455699245,-83.1384799314659,Candidate host
+C045,Cornerstone Schools Association,6861 E NEVADA ST,48234,School (Nonpublic School),42.42783065083783,-83.03017692761486,Candidate host
+C046,Cornerstone Jefferson-Douglass Academy,6861 E NEVADA ST,48234,School (PSA School),42.42783065083783,-83.03017692761486,Candidate host
+C047,Academy of the Americas at Logan,3811 CICOTTE ST,48210,School (LEA School),42.32810959067002,-83.12231723530627,Candidate host
+C048,Covenant High School Southwest,1450 25TH ST,48216,School (PSA School),42.32086069249665,-83.08538343306404,Candidate host
+C049,Carleton Elementary School,11724 CASINO ST,48224,School (LEA School),42.42720296396584,-82.94537403882754,Candidate host
+C050,Oakland International Academy - K-1,6111 MILLER ST,48211,School (PSA School),42.39083936841271,-83.03982350282624,Candidate host
+C051,Detroit Service Learning Academy Campus,21605 W 7 MILE RD,48219,School (PSA School),42.42834830873434,-83.2563366643692,Candidate host
+C052,Warrendale Charter Academy,19400 SAWYER ST,48228,School (PSA School),42.34769770951235,-83.23036844211018,Candidate host
+C053,Detroit Christian Schools of Excellence,19370 GREENFIELD RD,48235,School (Nonpublic School),42.43363392906704,-83.19937355211178,Candidate host
+C054,Charles Wright Academy of Arts and Science,19299 BERG RD,48219,School (LEA School),42.43228890558944,-83.2686514011352,Candidate host
+C055,Communication and Media Arts High School,19501 BERG RD,48219,School (LEA School),42.43501315011235,-83.26901058822898,Candidate host
+C056,Jalen Rose Leadership Academy,15000 TROJAN ST,48235,School (PSA School),42.44205289714915,-83.19456919376583,Candidate host
+C057,University Yes Academy,14717 CURTIS ST,48235,School (PSA School),42.42263634374623,-83.19127185681035,Candidate host
+C058,Detroit Lions Academy,2001 W WARREN AVE,48208,School (LEA School),42.34946329402433,-83.08395939166418,Candidate host
+C059,Garvey Academy,2301 VAN DYKE ST,48214,School (LEA School),42.35853841112087,-83.0011780747167,Candidate host
+C060,Blackwell Institute,9330 SHOEMAKER ST,48213,School (LEA School),42.38908195182181,-83.00573133127813,Candidate host
+C061,Voyageur Academy,4321 MILITARY ST,48210,School (PSA School),42.33242623462466,-83.12021847116952,Candidate host
+C062,Turning Point Academy,18501 WALTHAM ST,48205,School (LEA School),42.43019051718657,-82.99569658456477,Candidate host
+C063,Hope of Detroit Academy - Elementary,4443 N CAMPBELL ST,48210,School (PSA School),42.33472837014395,-83.11688411513418,Candidate host
+C064,Paul Robeson Malcolm X Academy,2585 GROVE ST,48221,School (LEA School),42.41450037065913,-83.12743189953622,Candidate host
+C065,Detroit Academy of Arts and Sciences,2985 E JEFFERSON AVE,48207,School (PSA School),42.34056034883822,-83.01838521243914,Candidate host
+C066,Detroit Academy of Arts and Sciences Middle School,2985 E JEFFERSON AVE,48207,School (PSA School),42.34056034883822,-83.01838521243914,Candidate host
+C067,Pershing High School,18875 RYAN RD,48234,School (LEA School),42.43215795128587,-83.06441131106112,Candidate host
+C068,Carver STEM Academy,18701 PAUL ST,48228,School (LEA School),42.33550618836097,-83.22372477051644,Candidate host
+C069,Gesu Elementary School,17139 OAK DR,48221,School (Nonpublic School),42.41773815333499,-83.13841314222043,Candidate host
+C070,Covenant High School Central,2959 MARTIN LUTHER KING JR BLVD,48208,School (PSA School),42.33594766215928,-83.08845604087762,Candidate host
+C071,Henderson Academy,16101 W CHICAGO ST,48228,School (LEA School),42.36442094152635,-83.20518240786535,Candidate host
+C072,J. E. Clark Preparatory Academy,15755 BREMEN ST,48224,School (LEA School),42.3942273331252,-82.94107986877175,Candidate host
+C073,University Preparatory Art & Design Elementary,10225 3RD ST,48202,School (PSA School),42.38659568109901,-83.09241807317494,Candidate host
+C074,University Preparatory Science and Math (PSAD) High School,2664 FRANKLIN ST,48207,School (PSA School),42.33720154288113,-83.02044697973474,Candidate host
+C075,Brenda Scott Academy for Theatre Arts,18440 HOOVER ST,48205,School (LEA School),42.42955148192303,-83.00342890389526,Candidate host
+C076,Davison Elementary-Middle School,2800 E DAVISON ST,48212,School (LEA School),42.41206564976398,-83.06911102220974,Candidate host
+C077,Cody High School,18445 CATHEDRAL ST,48228,School (LEA School),42.36033763284496,-83.22080364603775,Candidate host
+C078,Al-Furqan Quran Academy,4430 SAINT JAMES ST,48210,School (Nonpublic School),42.32882837023291,-83.14991479572912,Candidate host
+C079,Diann Banks-Williamson Educational Center,5020 CADIEUX RD,48224,School (LEA School),42.40786767630503,-82.92886121639174,Candidate host
+C080,East English Village Preparatory Academy at Finney,5020 CADIEUX RD,48224,School (LEA School),42.40786767630503,-82.92886121639174,Candidate host
+C081,Flagship Charter Academy,13661 WISCONSIN ST,48238,School (PSA School),42.43622994476393,-83.19053594893495,Candidate host
+C082,A.L. Holmes Academy of Blended Learning,8950 CRANE ST,48213,School (LEA School),42.3948,-83.01464,Candidate host
+C083,Detroit Premier Academy,7781 ASBURY PARK,48228,School (PSA School),42.34965798885784,-83.20650086169073,Candidate host
+C084,Hutchinson Elementary-Middle School,2600 GARLAND ST,48214,School (LEA School),42.36967405212683,-82.98284479356155,Candidate host
+C085,University Preparatory Art & Design Middle/High,485 W MILWAUKEE ST,48202,School (PSA School),42.36782167906865,-83.07478109955339,Candidate host
+C086,University Preparatory Science and Math - Elementary,2251 ANTIETAM AVE,48207,School (PSA School),42.34830114432798,-83.03141009088492,Candidate host
+C087,Greenfield Union Elementary-Middle School,420 W 7 MILE RD,48203,School (LEA School),42.4327058014727,-83.10743452804762,Candidate host
+C088,Foreign Language Immersion and Cultural Studies,6501 W OUTER DR,48235,School (LEA School),42.41919211865826,-83.1908744312886,Candidate host
+C089,Growing Minds Academy,11475 E OUTER DR,48224,School (Nonpublic School),42.40587624118463,-82.94886042163904,Candidate host
+C090,Jerry L. White Center,14804 W MCNICHOLS RD,48235,School (LEA School),42.41835565,-83.19327576806691,Candidate host
+C091,Renaissance High School,6565 W OUTER DR,48235,School (LEA School),42.41776239057876,-83.19433229621754,Candidate host
+C092,University Preparatory Academy (PSAD) - High School,600 ANTOINETTE ST,48202,School (PSA School),42.36261761618836,-83.07360114132813,Candidate host
+C093,Chrysler Elementary School,1445 E LAFAYETTE ST,48207,School (LEA School),42.33846668675411,-83.0336725556667,Candidate host
+C094,Barton Elementary School,8530 JOY RD,48204,School (LEA School),42.3598143050794,-83.15393987298478,Candidate host
+C095,DPSCD Virtual School,9026 WOODWARD AVE,48202,School (LEA School),42.38258205309559,-83.0806030723715,Candidate host
+C096,Frederick Douglass Academy for Young Men,9026 WOODWARD AVE,48202,School (LEA School),42.38258205309559,-83.0806030723715,Candidate host
+C097,Detroit Merit Charter Academy,1091 ALTER RD,48215,School (PSA School),42.37596338943624,-82.94078452454133,Candidate host
+C098,Emerson Elementary-Middle School,18240 HUNTINGTON RD,48219,School (LEA School),42.42329555672773,-83.23259959880477,Candidate host
+C099,Priest Elementary-Middle School,7840 WAGNER ST,48210,School (LEA School),42.33675872202677,-83.14379955711041,Candidate host
+C100,Moses Field Center,1100 SHERIDAN ST,48214,School (LEA School),42.35263313107302,-83.00140253564963,Candidate host
+C101,Waldorf School Assn. of Michigan,2555 BURNS ST,48214,School (Nonpublic School),42.36447806784709,-82.99778989328053,Candidate host
+C102,KIPP Detroit Imani Academy,19321 W CHICAGO ST,48228,School (PSA School),42.36435181663653,-83.23076025021568,Candidate host
+C103,W-A-Y Academy - Chicago Site,19321 W CHICAGO ST,48228,School (PSA School),42.36435181663653,-83.23076025021568,Candidate host
+C104,Sampson-Webber Leadership Academy,4700 TIREMAN ST,48204,School (LEA School),42.35395767795418,-83.118449873413,Candidate host
+C105,Edison Elementary School,17045 GRAND RIVER AVE,48227,School (LEA School),42.39783865329507,-83.2133169006629,Candidate host
+C106,Adams-Young Building,13130 GROVE ST,48235,School (PSA School),42.41502400669442,-83.17455958476319,Candidate host
+C107,Bates Academy,19701 WYOMING ST,48221,School (LEA School),42.43793374813813,-83.16317900030063,Candidate host
+C108,The James and Grace Lee Boggs School,7600 GOETHE ST,48214,School (PSA School),42.36348208951625,-83.0076860524705,Candidate host
+C109,Neinas Dual Language Learning Academy,6021 MCMILLAN ST,48209,School (LEA School),42.31715731846792,-83.10720162807718,Candidate host
+C110,Temple of Faith Day Care Kindergarten,9351 FORRER ST,48228,School (Nonpublic School),42.36487113927239,-83.2008824354333,Candidate host
+C111,Cesar Chavez Academy Intermediate,4100 MARTIN ST,48210,School (PSA School),42.32907841171075,-83.12504042274696,Candidate host
+C112,The School at Marygrove,8425 W MCNICHOLS RD,48221,School (LEA School),42.41466015669266,-83.15405873831969,Candidate host
+C113,Schulze Academy for Technology and Arts,10700 SANTA MARIA ST,48221,School (LEA School),42.41980814705956,-83.1683152677377,Candidate host
+C114,Henry Ford High School,20000 EVERGREEN RD,48219,School (LEA School),42.43942377622791,-83.23657862638254,Candidate host
+C115,New Paradigm Glazer Academy,2001 LA BELLE ST,48238,School (PSA School),42.39878962776014,-83.11750958896786,Candidate host
+C116,"Martin Luther King, Jr. Education Center Academy",16827 APPOLINE ST,48235,School (PSA School),42.41459393946795,-83.17140001329858,Candidate host
+C117,Detroit Innovation Academy,18211 PLYMOUTH RD,48228,School (PSA School),42.37035632280069,-83.21806999738696,Candidate host
+C118,University Preparatory Academy (PSAD) - Elementary,435 AMSTERDAM ST,48202,School (PSA School),42.36551660065977,-83.07320607812332,Candidate host
+C119,International Islamic Academy,4612 LONYO ST,48210,School (Nonpublic School),42.32815775802611,-83.14208720862943,Candidate host
+C120,Pulaski Elementary-Middle School,13840 LAPPIN ST,48205,School (LEA School),42.43652231381917,-82.9822585645848,Candidate host
+C121,Capstone Academy Charter School-Riverbend,13330 E JEFFERSON AVE,48215,School (PSA School),42.37023536734384,-82.94845585813532,Candidate host
+C122,Keidan Special Education Center,4441 COLLINGWOOD ST,48204,School (LEA School),42.37407878721564,-83.1288885920809,Candidate host
+C123,Madison-Carver Academy,19900 MCINTYRE ST,48219,School (PSA School),42.43684261521496,-83.26298136520391,Candidate host
+C124,Detroit Leadership Academy High School,5845 AUBURN ST,48228,School (PSA School),42.33136256487987,-83.23306094636106,Candidate host
+C125,Christ the King School,16800 TRINITY ST,48219,School (Nonpublic School),42.4136137752485,-83.24837081952303,Candidate host
+C126,Clippert Academy,1981 MCKINSTRY ST,48209,School (LEA School),42.32054104746439,-83.09816232919118,Candidate host
+C127,Thirkell Elementary-Middle School,7724 14TH ST,48206,School (LEA School),42.36670869500652,-83.09684590625193,Candidate host
+C128,Lincoln-King Adams-Young 6-8,17351 SOUTHFIELD FWY,48235,School (PSA School),42.41815453699717,-83.21945184136912,Candidate host
+C129,MacDowell Preparatory Academy,4201 W OUTER DR,48221,School (PSA School),42.4342755596913,-83.16595152560784,Candidate host
+C130,Detroit Leadership Academy K-8,13550 VIRGIL ST,48223,School (PSA School),42.38439047997275,-83.27071779709922,Candidate host
+C131,Martin Luther King Jr. Senior High School,3200 E LAFAYETTE ST,48207,School (LEA School),42.34301465411981,-83.01540966141079,Candidate host
+C132,Cass Technical High School,2501 2ND AVE,48201,School (LEA School),42.33885,-83.06041,Candidate host
+C133,Oakland International Academy - Elementary,4001 MILLER ST,48211,School (PSA School),42.39108,-83.04104,Candidate host
+C134,Hope Academy,12121 BROADSTREET AVE,48204,School (PSA School),42.37936213468269,-83.13525066312117,Candidate host
+C135,Brewer Academy,18025 BROCK ST,48205,School (LEA School),42.42867334691074,-82.9635283270508,Candidate host
+C136,Thurgood Marshall Elementary School,15531 LINWOOD ST,48238,School (LEA School),42.40603816004003,-83.128069785538,Candidate host
+C137,Osborn High School,11600 E 7 MILE RD,48205,School (LEA School),42.4335515898334,-83.00329538712576,Candidate host
+C138,Dixon Elementary School,8401 TRINITY ST,48228,School (LEA School),42.35442950709651,-83.24757037582077,Candidate host
+C139,Burton International Academy,2001 MARTIN LUTHER KING JR BLVD,48208,School (LEA School),42.33917197119932,-83.07831573167293,Candidate host
+C140,Bow Elementary-Middle School,19801 PREVOST ST,48235,School (LEA School),42.43693905747777,-83.20482173415425,Candidate host
+C141,Ronald Brown Academy,11530 E OUTER DR,48224,School (LEA School),42.40482436781359,-82.94836598716475,Candidate host
+C142,Escuela Avancemos,2635 HOWARD ST,48216,School (PSA School),42.32091290974913,-83.07623674232286,Candidate host
+C143,Al-Ikhlas Training Academy,12555 MCDOUGALL ST,48212,School (Nonpublic School),42.41007632889612,-83.06438859833375,Candidate host
+C144,Fisher Magnet Academy,15510 E STATE FAIR ST,48205,School (LEA School),42.44211824267052,-82.96161917952176,Candidate host
+C145,Old Redford Academy - High,8001 W OUTER DR,48235,School (PSA School),42.41848822480624,-83.21755179812158,Candidate host
+C146,Detroit Public Safety Academy,1250 ROSA PARKS BLVD,48216,School (PSA School),42.32516730991252,-83.06735586567827,Candidate host
+C147,Oakland International Academy - Middle,8228 CONANT ST,48211,School (PSA School),42.38979880763993,-83.04270476106342,Candidate host
+C148,Rutherford Winans Academy,16411 CURTIS ST,48235,School (PSA School),42.42244384503081,-83.20961004417507,Candidate host
+C149,Denby High School,12800 KELLY RD,48224,School (LEA School),42.42581653447582,-82.95847104323437,Candidate host
+C150,The International Vocations and Careers School,19730 RALSTON ST,48203,School (Nonpublic School),42.43824115690942,-83.11683549190752,Candidate host
+C151,Mary McLeod Bethune Elementary-Middle School,8145 PURITAN ST,48238,School (LEA School),42.40911631998918,-83.15167667800876,Candidate host
+C152,Hope of Detroit Academy - Middle/High,4444 35TH ST,48210,School (PSA School),42.33572487265707,-83.1156189707751,Candidate host
+C153,Cesar Chavez High School,1761 WATERMAN ST,48209,School (PSA School),42.3118990395691,-83.11462548538441,Candidate host
+C154,Old Redford Academy - Elementary,17195 REDFORD ST,48219,School (PSA School),42.41617427150124,-83.26014301532555,Candidate host
+C155,Coleman A. Young Elementary School,15771 HUBBELL ST,48227,School (LEA School),42.40641354394782,-83.1897058188603,Candidate host
+C156,"Edward ""Duke"" Ellington at Beckham",9860 PARK DR,48213,School (LEA School),42.40817202003423,-82.97949444255929,Candidate host
+C157,Pembroke Academy,19940 MANSFIELD ST,48235,School (PSA School),42.43787065540386,-83.20604923586227,Candidate host
+C158,Carstens Elementary-Middle School,13000 ESSEX AVE,48215,School (LEA School),42.36364337755251,-82.94786339117815,Candidate host
+C159,Detroit Prep,8411 SYLVESTER ST,48214,School (PSA School),42.37166571244795,-83.00383344636646,Candidate host
+C160,ASA Higher Learning Preparatory,20433 LIVERNOIS AVE,48221,School (Nonpublic School),42.44417391488457,-83.14233589695962,Candidate host
+C161,Old Redford Academy - Middle School,22122 W MCNICHOLS RD,48219,School (PSA School),42.41534648554101,-83.25968397830015,Candidate host
+C162,Frontier International Academy,13200 CONANT ST,48212,School (PSA School),42.41241429579395,-83.05812144750502,Candidate host
+C163,Skills & Trade Preparatory High School,3360 CHARLEVOIX ST,48207,School (Nonpublic School),42.35497640162239,-83.02348979573398,Candidate host
+C164,David Ellis Academy,18977 SCHAEFER HWY,48235,School (PSA School),42.43017443213626,-83.18081680235923,Candidate host
+C165,Detroit Cristo Rey High School,5679 W VERNOR HWY,48209,School (Nonpublic School),42.31685805590998,-83.10282910302811,Candidate host
+C166,Mann Learning Community,19625 ELMIRA ST,48228,School (LEA School),42.36896670824515,-83.23434474996994,Candidate host
+C167,Harms Elementary School,2400 CENTRAL ST,48209,School (LEA School),42.31422271537863,-83.12496093566438,Candidate host
+C168,Lincoln-King Adams Young School - Grove Campus,13436 GROVE ST,48235,School (PSA School),42.41431512228736,-83.17707627513619,Candidate host
+C169,Mumford High School,17525 WYOMING ST,48221,School (LEA School),42.42132731357447,-83.16437599354482,Candidate host
+C170,Cooke STEM Academy,18800 PURITAN ST,48223,School (LEA School),42.4087349712638,-83.22598286713554,Candidate host
+C171,Marquette Elementary-Middle School,6145 CANYON ST,48236,School (LEA School),42.41962741282142,-82.92267710877644,Candidate host
+C172,Detroit International Academy for Young Women,5161 CHARLES ST,48212,School (LEA School),42.41248949038494,-83.04904228567074,Candidate host
+C173,Davis Aerospace Technical High School at Golightly,900 DICKERSON ST,48215,School (LEA School),42.36967416126316,-82.95116219015213,Candidate host
+C174,Dove Academy of Detroit,20001 WEXFORD ST,48234,School (PSA School),42.4422414175213,-83.06618838049515,Candidate host
+C175,Cesar Chavez Academy Elementary,8126 W VERNOR HWY,48209,School (PSA School),42.31103533088528,-83.12934868692614,Candidate host
+C176,Plymouth Educational Center,1460 E FOREST AVE,48207,School (PSA School),42.36011606179997,-83.04755949768688,Candidate host
+C177,John R. King Academic and Performing Arts Academy,15850 STRATHMOOR ST,48227,School (LEA School),42.40831473654078,-83.18733144629591,Candidate host
+C178,Loyola High School,15325 PINEHURST ST,48238,School (Nonpublic School),42.40289816170242,-83.16694874513664,Candidate host
+C179,Holy Redeemer Elementary School,1711 JUNCTION ST,48209,School (Nonpublic School),42.3162620675656,-83.10120242545904,Candidate host
+C180,Regent Park Scholars Charter Academy,15865 E 7 MILE RD,48205,School (PSA School),42.43608691610805,-82.95748354278882,Candidate host
+C181,Golightly Education Center,5536 SAINT ANTOINE ST,48202,School (LEA School),42.36473101304372,-83.0597877541789,Candidate host
+C182,Mason Academy,19955 FENELON ST,48234,School (LEA School),42.44233876981689,-83.05490443002165,Candidate host
+C183,Marion Law Academy,19411 CLIFF ST,48234,School (LEA School),42.43792888109068,-83.02927438386581,Candidate host
+C184,University of Detroit Jesuit,8400 S CAMBRIDGE AVE,48221,School (Nonpublic School),42.43285773005545,-83.15398113265792,Candidate host
+C185,Bridge Academy West,3105 CARPENTER ST,48212,School (PSA School),42.4074139735769,-83.06187596332278,Candidate host
+C186,Detroit School of Arts,123 SELDEN ST,48201,School (LEA School),42.34856296413192,-83.06091196982706,Candidate host
+C187,Edmonson Montessori,1300 W CANFIELD ST,48201,School (LEA School),42.3492673098026,-83.07453626973776,Candidate host
+C188,Weston Preparatory Academy,22930 CHIPPEWA ST,48219,School (PSA School),42.4390436318195,-83.27058030539678,Candidate host
+C189,Legacy Charter Academy,4900 E HILDALE ST,48234,School (PSA School),42.42911799542817,-83.05441080859524,Candidate host
+C190,W-A-Y Academy - Vernor Site,8701 W VERNOR HWY,48209,School (PSA School),42.30898873623175,-83.13262291924555,Candidate host
+C191,Joy Preparatory Academy,15055 DEXTER AVE,48238,School (PSA School),42.40142182372657,-83.1361003112577,Candidate host
+C192,Central High School,2425 TUXEDO ST,48206,School (LEA School),42.38381570388263,-83.11197977679399,Candidate host
+C193,Durfee Elementary-Middle School,2425 TUXEDO ST,48206,School (LEA School),42.38381570388263,-83.11197977679399,Candidate host
+C194,Detroit Community Schools - Elementary,12675 BURT RD,48223,School (PSA School),42.38023060622358,-83.24741034288209,Candidate host
+C195,Detroit Community Schools - High School,12675 BURT RD,48223,School (PSA School),42.38023060622358,-83.24741034288209,Candidate host
+C196,Dossin Elementary-Middle School,16650 GLENDALE ST,48227,School (LEA School),42.38280067476722,-83.21084845226943,Candidate host
+C197,Pasteur Elementary School,19811 STOEPEL ST,48221,School (LEA School),42.43820795268734,-83.14309399108018,Candidate host
+C198,Roberto Clemente Learning Academy,1551 BEARD ST,48209,School (LEA School),42.30941137983616,-83.1159963632806,Candidate host
+C199,Maybury Elementary School,4410 PORTER ST,48209,School (LEA School),42.31653826426798,-83.09379474880745,Candidate host
+C200,Cesar Chavez Middle School,6782 GOLDSMITH ST,48209,School (PSA School),42.3115110698717,-83.1152953048505,Candidate host
+C201,Bagley Elementary School of Journalism and Technology,8100 CURTIS ST,48221,School (LEA School),42.42483987418997,-83.1521841532324,Candidate host
+C202,The SER Learning Academy - East,5555 CONNER ST,48213,School (PSA School),42.39027436470917,-82.98215525377236,Candidate host
+C203,Gompers Elementary-Middle School,14450 BURT RD,48223,School (LEA School),42.3922968783983,-83.24613332760191,Candidate host
+C204,WAY Michigan,407 E FORT ST,48226,School (PSA School),42.33302308453651,-83.04251625658291,Candidate host
+C205,University Preparatory Science and Math (PSAD) Middle School,5100 JOHN R ST,48202,School (PSA School),42.35902934307408,-83.06214444025413,Candidate host
+C206,Northwestern High School,2200 W GRAND BLVD,48208,School (LEA School),42.35815994178353,-83.10296097152585,Candidate host
+C207,Evergreen Lutheran School,8680 EVERGREEN AVE,48228,School (Nonpublic School),42.35654670144515,-83.2356053869452,Candidate host
+C208,Crockett Midtown High School of Science and Medicine,571 MACK AVE,48201,School (LEA School),42.350646505043,-83.05160568801035,Candidate host
+C209,Most Holy Trinity School,1229 LABROSSE ST,48226,School (Nonpublic School),42.32995531448323,-83.06128926787848,Candidate host
+C210,Spain Elementary-Middle School,3700 BEAUBIEN ST,48201,School (LEA School),42.35100427773352,-83.05202991564619,Candidate host
+C211,University Preparatory Academy (PSAD) - Elementary,957 HOLDEN ST,48202,School (PSA School),42.36160292693371,-83.07703312411036,Candidate host
+C212,Noble Elementary-Middle School,8646 FULLERTON ST,48238,School (LEA School),42.3814425996365,-83.1555574833495,Candidate host
+C213,George Crockett Academy,4851 14TH ST,48208,School (PSA School),42.34905849222848,-83.08702554677834,Candidate host
+C214,Pathways Academy,11340 E JEFFERSON AVE,48214,School (PSA School),42.36513453510597,-82.9708000861132,Candidate host
+C215,Wayne Elementary School,10633 COURVILLE ST,48224,School (LEA School),42.41569178349305,-82.95633621606218,Candidate host
+C216,Burns Elementary-Middle School,14350 TERRY ST,48227,School (LEA School),42.39359598975943,-83.19084929564097,Candidate host
+C217,Earhart Elementary-Middle School,1000 SCOTTEN ST,48209,School (LEA School),42.31608412058289,-83.0894282260208,Candidate host
+C218,Mark Twain Elementary-Middle School,12800 VISGER ST,48217,School (LEA School),42.26946542379781,-83.16179328609816,Candidate host
+C219,Trix Academy,20045 JOANN ST,48205,School (PSA School),42.44422368315233,-82.99085692628518,Candidate host
+C220,School of Love,20260 GLASTONBURY RD,48219,School (Nonpublic School),42.44160384000652,-83.22328418266866,Candidate host
+C221,University Preparatory Academy (PSAD) - Middle,5310 SAINT ANTOINE ST,48202,School (PSA School),42.36244119135949,-83.05799242671073,Candidate host
+C222,Mackenzie Elementary-Middle School,10147 W CHICAGO,48204,School (LEA School),42.36526492095584,-83.15972546193855,Candidate host
+C223,Bunche Preparatory Academy,2715 MACOMB ST,48207,School (LEA School),42.34418736357334,-83.02426694862402,Candidate host
+C224,Charlotte Mason Community School,17400 2ND AVE,48203,School (Nonpublic School),42.41879476949772,-83.10939702407416,Candidate host
+C225,Nichols Elementary-Middle School,3000 BURNS ST,48214,School (LEA School),42.36670035,-82.99809357927674,Candidate host
+C226,Detroit Edison Public School Academy - High School,3402 SAINT AUBIN ST,48207,School (PSA School),42.35291205,-83.03641324410012,Candidate host
+C227,Barack Obama Leadership Academy,10800 E CANFIELD ST,48214,School (PSA School),42.38061329812813,-82.98581381344644,Candidate host
+C228,Gardner Elementary School,6528 MANSFIELD ST,48228,School (LEA School),42.33947874607133,-83.20170150383552,Candidate host
+C229,Vernor Elementary School,13726 PEMBROKE AVE,48235,School (LEA School),42.43874763770339,-83.18252916063332,Candidate host
+C230,Universal Academy,4833 OGDEN ST,48210,School (PSA School),42.32816409604559,-83.14560332682473,Candidate host
+C231,Detroit Enterprise Academy,11224 KERCHEVAL ST,48214,School (PSA School),42.36855332728217,-82.97274704398296,Candidate host
+C232,New Paradigm College Prep,4001 29TH ST,48210,School (PSA School),42.33474852827634,-83.11009120379651,Candidate host
+C233,Muhammad University of Islam,19160 EVERGREEN RD,48219,School (Nonpublic School),42.43052064184205,-83.23849604138972,Candidate host
+C234,Academy of The Americas High School,5680 KONKEL ST,48210,School (LEA School),42.32714097203147,-83.11082639779522,Candidate host
